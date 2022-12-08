@@ -62,7 +62,7 @@
   
   ### <img src="https://media.giphy.com/media/XwcRflO9HD0Sk6RaRM/giphy.gif" align="center" height="25" width="55"> Scripts Disponíveis para quando for baixar o projeto👇
   ### Vai digitar no terminal do VSCode os comandos:
-  - ```npm install ```;
+  - ```yarn install ```;
   -  ``yarn run dev`` 👉 Abra "http://127.0.0.1:5173/" para visualizar o projeto em seu navegador.
   
   ### ✅ Implementado o componente Props:
