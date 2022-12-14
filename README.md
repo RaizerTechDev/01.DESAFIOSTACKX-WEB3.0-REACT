@@ -17,7 +17,7 @@
 
 4) Para estilização 
 - React use Styled Components
-- Angular use Saas 
+- Angular use Sass 
 - Vue use Tailwind CSS
 
 
@@ -43,7 +43,7 @@
   ### <div align="center">[Clique aqui para acessar o Projeto](https://rafarz76dev-desafiostackx-web30-react.netlify.app/)
 
 ***
-   <img src="ProjetoWeb3.0 React.png" align="center" height="500em" width="100%" href="https://rafarz76dev-desafiostackx-web30-react.netlify.app/">
+   <img src="ProjetoWeb3.0 React.png" align="center" height="500em" width="100%" href="https://rafarz76dev-desafiostackx-web30-react.netlify.app">
    
    ***
    
