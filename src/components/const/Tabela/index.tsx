@@ -16,7 +16,7 @@ export function TechTabela() {
       <ul>
         <li>Styled Components</li>
         <br />
-        <li>Saas</li>
+        <li>Sass</li>
         <br />
         <li>Node</li>
         <br />
