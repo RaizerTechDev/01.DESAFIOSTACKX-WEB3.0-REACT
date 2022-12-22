@@ -71,7 +71,7 @@
 ***
 ### ▶ 😀👀 Bora lá....
 
-### Gostou, então já deixa a 🌟
+### Gostou, então já clica na 🌟
 
 ***
 #### Você pode aprender mais na documentação do Create React App .
